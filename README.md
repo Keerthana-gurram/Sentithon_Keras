@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/akbloodadarsh/Twitter-Sentimental-Analysis/blob/master/Twitterlogo.png?raw=true">
+  <img src="https://www.grid.cl/blog/wp-content/uploads/2019/02/sentiment-analysis-2-696x438.png">
 </p>
 <h1 align="center">Twitter-Sentimental-Analysis</h1>
 
